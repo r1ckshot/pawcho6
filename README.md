@@ -6,3 +6,5 @@ docker run -d -p 8080:80 --name mywebapp webapp:multi
 
 ## ✅ Weryfikacja działania
 curl http://localhost:8080
+
+# Autor Mykhailo Kapustianyk
