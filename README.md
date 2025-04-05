@@ -1,13 +1,9 @@
 # 🐳 PAwChO Lab 6 - Zaawansowane BuildKit i GitHub Container Registry
 
-
 ## ☁️ Pobieranie obrazu z GitHub Container Registry
 docker pull ghcr.io/r1ckshot/pawcho6:lab6
 
-
-## 📦 Budowa obrazu z wykorzystaniem SSH i BuildKit
-
-# Wymagane: uruchomiony agent SSH z kluczem
+## 📦 Wymagane: uruchomiony agent SSH z kluczem
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/github_ed25519
 
