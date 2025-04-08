@@ -1,6 +1,3 @@
-# pawcho6
-Additional task
-=======
 ## 🛠️ Budowa obrazu
 docker build --build-arg VERSION=1.0.0 -t webapp:multi .
 
