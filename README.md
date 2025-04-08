@@ -12,7 +12,7 @@ curl http://localhost:8080
 ## 🛠️ Budowa obrazu (opcjonalnie)
 
 ### Krok 1: Sklonowanie repozytorium
-git clone git@github.com:r1ckshot/pawcho6.git
+git clone git@github.com:r1ckshot/pawcho6.git 
 cd pawcho6
 
 ### Krok 2: Przygotowanie agenta SSH (wymagane do klonowania wewnątrz Dockera)
